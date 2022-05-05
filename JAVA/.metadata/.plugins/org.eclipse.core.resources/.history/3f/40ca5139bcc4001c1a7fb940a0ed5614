@@ -1,0 +1,15 @@
+package aplicacao;
+
+public class Retangulo implements FormaGeometrica{
+
+	public void area(int altura, int largura) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void perimetro(int altura, int largura) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

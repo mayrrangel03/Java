@@ -1,0 +1,13 @@
+package Banco;
+
+public class TesteFuncionario {
+
+	public static void main(String[] args) {
+		
+		Funcionario funcionario = new Funcionario();
+		
+		funcionario.setNome("Mayara");
+		System.out.prinln("Nome: " + funcionario.getNome());
+	}
+
+}

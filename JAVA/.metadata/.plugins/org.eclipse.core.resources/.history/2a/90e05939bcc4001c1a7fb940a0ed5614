@@ -1,0 +1,10 @@
+package aplicacao;
+
+public class Quadrado implements FormaGeometrica {
+     void area( int lado) {
+    	 
+     }
+     void perimetro(int lado) {
+    	 
+     }
+}

@@ -1,0 +1,18 @@
+package fila;
+
+public class fila {
+     //criar filaVazia
+	//enfileirar
+	//desinfileirar
+	//boolean para verificar se a fila ta vazia ou cheia
+	//imprimir
+	
+	//atributos:
+	private int frente;
+	private int tras;
+	private int tamanho;
+	private int[] fila;
+	//tras
+	//tamanho
+	//fila em si
+}

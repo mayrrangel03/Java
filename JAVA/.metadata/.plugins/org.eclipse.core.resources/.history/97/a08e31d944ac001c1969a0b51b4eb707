@@ -1,0 +1,22 @@
+package Banco;
+
+public class TesteFuncionario {
+
+	public static void main(String[] args) {
+		
+		Funcionario funcionario = new Funcionario();
+		
+		funcionario.setNome("Mayara");
+		funcionario.setDepartamento("TI");
+		funcionario.setSalario(1000.0);
+		funcionario.setDataentrada("21/03/2022");
+		funcionario.setCPF("14678240624");
+		System.out.println("Nome: " + funcionario.getNome());
+		System.out.println("DEpartamento: " + funcionario.getDepartamento());
+		System.out.println("Salario: " + funcionario.getSalario());
+		System.out.println("Data de entrada no banco : " + funcionario.getDataentrada());
+		System.out.println("CPF: " + funcionario.getCPF());
+		System.out.println("Aumento salarial: " + funcionario.calculaGanhoAnual());
+	}
+
+}

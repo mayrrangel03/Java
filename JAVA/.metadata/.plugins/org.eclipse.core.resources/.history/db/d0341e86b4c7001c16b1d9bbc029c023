@@ -1,0 +1,11 @@
+package fila;
+
+public class main {
+
+	public static void main(String[] args) {
+		// declara os valores A SEREM ADICIONADOS 
+		//IMPRIMI OS VALORES
+
+	}
+
+}

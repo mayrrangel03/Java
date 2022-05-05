@@ -1,0 +1,15 @@
+package aplicacao;
+
+public class Triangulo implements FormaGeometrica{
+
+	public void perimetro(int base) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void area(int altura, int base) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

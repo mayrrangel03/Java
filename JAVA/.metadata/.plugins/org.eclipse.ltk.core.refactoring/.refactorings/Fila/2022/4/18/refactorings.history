@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;fila.Inteiro.valor&apos; in &apos;fila.Inteiro&apos;&#x0A;- Original project: &apos;Fila&apos;&#x0A;- Original element: &apos;fila.Inteiro.valor&apos;&#x0A;- Getter method name: &apos;getValor&apos;&#x0A;- Setter method name: &apos;setValor&apos;&#x0A;- Field visibility: &apos;public&apos;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;valor&apos;" flags="589830" getter="getValor" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;fila{Inteiro.java[Inteiro^valor" insertion="-1" setter="setValor" stamp="1651161060563" version="1.0" visibility="1"/>
+</session>

@@ -1,0 +1,8 @@
+package lista;
+import java.util.ArrayList;
+public class Lista {
+	public static void main(String[] args) {
+	  ArrayList<Usuario> lista = new ArrayList<>(); //usuario é um tipo , então a lista é um arraylist do tipo usuario
+	  
+  }
+}
